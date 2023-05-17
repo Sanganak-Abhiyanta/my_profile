@@ -21,11 +21,16 @@
   font-size: 1.5rem;
   color: var(--title-color);
   font-weight: var(--font-bold);
+  transition: .3s;
+}
+.nav__link:hover {
+  color: hsl(0, 100%, 50%);
 }
 
-.copyright{
-    color: hsl(245, 15%, 65%);
-    font-size: var(--small-font-size);
-    transform: rotate(-180deg);
-    writing-mode: vertical-rl;
+.copyright {
+  color: hsl(245, 15%, 65%);
+  font-size: var(--small-font-size);
+  transform: rotate(-180deg);
+  writing-mode: vertical-rl;
 }
+
