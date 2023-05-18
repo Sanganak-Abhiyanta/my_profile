@@ -1,3 +1,31 @@
+
+# my_profile
+
+I have created this for my portfolio.
+
+# Resourses Used in this project.
+
+ * Simple Icon
+    * https://simplelineicons.github.io/
+* Fontawesome
+
+    `npm i --save @fortawesome/fontawesome-svg-core`
+
+    ` npm i --save @fortawesome/free-solid-svg-icons`
+
+    `  npm i --save @fortawesome/free-regular-svg-icons`
+
+    `npm i --save @fortawesome/react-fontawesome@latest`
+
+* Google fontawesome
+    * https://fonts.google.com/specimen/Rubik?query=rubik
+
+* Swipper JS
+    * https://swiperjs.com/react
+    * `npm i swiper`
+    
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
