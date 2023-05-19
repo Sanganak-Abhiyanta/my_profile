@@ -43,7 +43,7 @@ export default function SideBar() {
               </a>
             </li>
             <li className="nav__item">
-              <a href="#contacts" className="nav__link">
+              <a href="#contact" className="nav__link">
               <i className="icon-bubble"></i>
               </a>
             </li>
